@@ -13,6 +13,7 @@
   padding: 2rem 0;
   color:white;
 
+
 .portfolio-hero-header-description {
   list-style-type: none;
   display: -webkit-flex;
@@ -40,6 +41,7 @@
   position: absolute;
   left: 0;
   top: 5px;
+  color:white;
 }
 
 .portfolio-hero-header-description li:first-child:before {
@@ -55,6 +57,7 @@
       -ms-flex-pack: center;
           justify-content: center;
   margin: 0;
+  color:white;
 }
 
 .portfolio-hero-header-menu li {
