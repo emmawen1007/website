@@ -45,7 +45,7 @@
   -webkit-align-self: stretch;
       -ms-flex-item-align: stretch;
           align-self: stretch;
-  background:#fdf4e4;
+  background:#000000;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
@@ -71,8 +71,10 @@
 
 .marketing-site-content-section-block-header {
   font-size: 35px;
+  color:white;
 }
 
 .marketing-site-content-section-block-subheader {
   font-size: 24px;
+  color:white;
 }
