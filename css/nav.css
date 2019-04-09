@@ -28,7 +28,7 @@
   position: absolute;
   content: '';
   transition: all 0.35s ease;
-  background-color: #1779ba;
+  background-color: #000000;
   width: 0;
 }
 
@@ -44,7 +44,7 @@
 
 .menu-hover-lines a:hover,
 .menu-hover-lines li.active > a {
-  color: #0a0a0a;
+  color: #000000;
   transition: all 0.35s ease;
 }
 
